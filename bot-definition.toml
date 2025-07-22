@@ -1,0 +1,3 @@
+[bot]
+module = "music_bot"
+class_name = "HighriseMusicBot"
