@@ -136,3 +136,4 @@ replit.nix
 # Database
 *.db-shm
 *.db-wal
+.vercel
